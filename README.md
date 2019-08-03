@@ -2,7 +2,7 @@
 
 ​		本项目首先是一个基于hexo的博客模板，这个模板说实话也不是我自己写的，而是来源于模板icarus，如果各位看客感兴趣可以去原模板网站去看一下，连接如下：
 
-网站链接：https://blog.zhangruipeng.me/hexo-theme-icarus/   
+​		网站链接：https://blog.zhangruipeng.me/hexo-theme-icarus/   
 
 ​		或者直接在github中搜索**hexo-theme-icarus**。
 
