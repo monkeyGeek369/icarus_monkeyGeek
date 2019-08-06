@@ -29,7 +29,7 @@ navbar:
         时光飞逝: /archives
         技术乐园: /categories
         标签: /tags
-        经验分享: /share
+        #经验分享: /share
         关于我: /about
     # Navigation bar links to be shown on the right
     links:
