@@ -75,24 +75,24 @@ donate:
         # Donation entry name
         type: alipay
         # Qrcode image URL
-        qrcode: ''
+        qrcode: '/images/alipay.jpg'
     -
         # Donation entry name
         type: wechat
         # Qrcode image URL
-        qrcode: ''
+        qrcode: '/images/wechat.jpg'
     -
         # Donation entry name
-        type: paypal
+        #type: paypal
         # Paypal business ID or email address
-        business: ''
+        #business: ''
         # Currency code
-        currency_code: USD
+        #currency_code: USD
     -
         # Donation entry name
-        type: patreon
+        #type: patreon
         # URL to the Patreon page
-        url: ''
+        #url: ''
 # Share plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
