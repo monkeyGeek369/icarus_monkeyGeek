@@ -67,7 +67,16 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
     # Name of the comment plugin
-    type: 
+    type: gitalk
+    owner: monkeyGeek369         # (required) GitHub user name
+    repo: monkeyGeek369.github.io          # (required) GitHub repository name
+    client_id: ddd4811074fe59faa56c     # (required) OAuth application client id
+    client_secret: fb825479f2fcc898b38e240612a6c9eb45ff15d0 # (required) OAuth application client secret
+    admin: monkeyGeek369         # (required) GitHub repo owner and collaborators who can initialize github issues
+                            #            Can either be a string or an array.
+                            #            admin:
+                            #                - xxxxxx1
+                            #                - xxxxxx2
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 donate:
