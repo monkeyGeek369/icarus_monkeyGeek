@@ -29,7 +29,7 @@ navbar:
         时光飞逝: /archives
         技术乐园: /categories
         标签: /tags
-        经验分享: /categories/经验分享
+        经验分享: /categories/experienceShare
         关于我: /about
     # Navigation bar links to be shown on the right
     links:
@@ -105,8 +105,7 @@ donate:
 # Share plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
-    # Share plugin name
-    type: 
+    type: sharejs
 # Sidebar settings.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
