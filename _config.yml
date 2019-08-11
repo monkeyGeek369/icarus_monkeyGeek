@@ -30,7 +30,7 @@ navbar:
         技术乐园: /categories
         标签: /tags
         经验分享: /categories/experienceShare
-        关于我: /about
+        关于我: /categories/aboutme
     # Navigation bar links to be shown on the right
     links:
         Download on GitHub:
